@@ -1,0 +1,22 @@
+Test Scenario: Create Lifestyler Profile
+Test Case: Check response on entering valid username and password
+Pre conditions: none
+Test Steps: 	1. Launch Application
+		2. Enter username
+		3. Enter password
+		4. Click OK button
+Test Data:	Username: mynkow, Password: mynkow84
+		Username: mynkow84, Password: Mynkow
+		Username: mynkow0603, Password: MYNKOW
+Expected Result: Login must be successfulLogin is successful
+Actual Results:
+Pass/Fail
+
+
+
+
+
+
+
+
+
