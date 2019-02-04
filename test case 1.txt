@@ -14,9 +14,9 @@ none
 Username: mynkow84, Password: Mynkow
 Username: mynkow0603, Password: MYNKOW
 Expected Result: 
-Login must be successfulLogin is successful
+Login must be successful
 Actual Results:
-Pass/Fail
+Pass/Fail:
 
 
 
